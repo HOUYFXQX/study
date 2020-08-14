@@ -1,0 +1,9 @@
+manual\JmsConfiguration.class
+manual\Producer.class
+mqtt\MqttApplication.class
+hello\Consumer.class
+hello\Producer.class
+manual\Producer$1.class
+mqtt\MqttApplication$1.class
+mqtt\MqttApplication$2.class
+manual\Consumer.class
