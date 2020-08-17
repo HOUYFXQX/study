@@ -6,7 +6,7 @@ server:
 spring:
   application:
     name: spring-boot-kafka
-
+#色发的
 # kafka
   kafka:
     # 指定 kafka 地址可以多个
