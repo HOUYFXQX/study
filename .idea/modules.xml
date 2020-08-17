@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/activemq-demo1/activemq-demo1.iml" filepath="$PROJECT_DIR$/activemq-demo1/activemq-demo1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/activemq-spring/activemq-spring.iml" filepath="$PROJECT_DIR$/activemq-spring/activemq-spring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo/demo.iml" filepath="$PROJECT_DIR$/demo/demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/idea.iml" filepath="$PROJECT_DIR$/.idea/idea.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kafka-demo/kafka-demo.iml" filepath="$PROJECT_DIR$/kafka-demo/kafka-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mquse/mq-use.iml" filepath="$PROJECT_DIR$/mquse/mq-use.iml" />
+      <module fileurl="file://$PROJECT_DIR$/netty-push/netty-push.iml" filepath="$PROJECT_DIR$/netty-push/netty-push.iml" />
+      <module fileurl="file://$PROJECT_DIR$/netty-push-v1/netty-push-v1.iml" filepath="$PROJECT_DIR$/netty-push-v1/netty-push-v1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rabbitmq-springboot/rabbitmq.iml" filepath="$PROJECT_DIR$/rabbitmq-springboot/rabbitmq.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rabbitmq-java/rabbitmq-java.iml" filepath="$PROJECT_DIR$/rabbitmq-java/rabbitmq-java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rabbitmq-spring/rabbitmq-spring.iml" filepath="$PROJECT_DIR$/rabbitmq-spring/rabbitmq-spring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rocketmq-demo1/rocketmq-demo1.iml" filepath="$PROJECT_DIR$/rocketmq-demo1/rocketmq-demo1.iml" />
+    </modules>
+  </component>
+</project>

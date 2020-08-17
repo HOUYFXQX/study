@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="activemq-demo1" />
+        <module name="activemq-spring" />
+        <module name="demo" />
+        <module name="kafka-demo" />
+        <module name="mq-use" />
+        <module name="netty-push" />
+        <module name="netty-push-v1" />
+        <module name="rabbitmq" />
+        <module name="rabbitmq-java" />
+        <module name="rabbitmq-spring" />
+        <module name="rocketmq-demo1" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="activemq-demo1" target="8" />
+      <module name="activemq-spring" target="1.8" />
+      <module name="demo" target="1.8" />
+      <module name="kafka-demo" target="1.8" />
+      <module name="mq-use" target="1.8" />
+      <module name="netty-push" target="8" />
+      <module name="netty-push-v1" target="8" />
+      <module name="rabbitmq" target="1.8" />
+      <module name="rabbitmq-java" target="8" />
+      <module name="rabbitmq-spring" target="1.8" />
+      <module name="rocketmq-demo1" target="8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="activemq-spring" options="-parameters" />
+      <module name="demo" options="-parameters" />
+      <module name="kafka-demo" options="-parameters" />
+      <module name="rabbitmq" options="-parameters" />
+      <module name="rabbitmq-spring" options="-parameters" />
+    </option>
+  </component>
+</project>

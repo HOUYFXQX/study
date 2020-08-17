@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/mquse" />
+    <file type="web" url="file://$PROJECT_DIR$/rabbitmq-springboot" />
+  </component>
+  <component name="JavaScriptSettings">
+    <option name="languageLevel" value="ES6" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/netty-push-v1/pom.xml" />
+        <option value="$PROJECT_DIR$/demo/pom.xml" />
+        <option value="$PROJECT_DIR$/netty-push/pom.xml" />
+        <option value="$PROJECT_DIR$/rabbitmq-springboot/pom.xml" />
+        <option value="$PROJECT_DIR$/rabbitmq-java/pom.xml" />
+        <option value="$PROJECT_DIR$/rabbitmq-spring/pom.xml" />
+        <option value="$PROJECT_DIR$/activemq-demo1/pom.xml" />
+        <option value="$PROJECT_DIR$/activemq-spring/pom.xml" />
+        <option value="$PROJECT_DIR$/kafka-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/mquse/pom.xml" />
+        <option value="$PROJECT_DIR$/rocketmq-demo1/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
+</project>
